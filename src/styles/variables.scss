@@ -1,0 +1,29 @@
+//header
+$A-headerBg: #409eff;
+$B-headerBg: #304156;
+
+//main background
+$backgroundColor: #e3edcd;
+
+// sidebar
+//深色 A
+$A-menuText: #bfcbd9;
+$A-menuActiveText: #409eff;
+$A-menuBg: #304156;
+
+// 默认 B
+$B-menuText: #303133;
+$B-menuActiveText: #409eff;
+$B-menuBg: #ffffff;
+
+:export {
+  AmenuText: $A-menuText;
+  AmenuActiveText: $A-menuActiveText;
+  AmenuBg: $A-menuBg;
+  BmenuText: $B-menuText;
+  BmenuActiveText: $B-menuActiveText;
+  BmenuBg: $B-menuBg;
+  AheaderBg: $A-headerBg;
+  BheaderBg: $B-headerBg;
+  backgroundColor: $backgroundColor;
+}

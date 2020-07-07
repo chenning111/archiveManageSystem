@@ -1,0 +1,268 @@
+{
+  "id": "1562052",
+  "name": "档案系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "984003",
+      "name": "广播",
+      "font_class": "weibiaoti555",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "8879771",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "2551993",
+      "name": "个人设置",
+      "font_class": "gerenshezhi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "4187230",
+      "name": "书",
+      "font_class": "shu",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1027690",
+      "name": "文件",
+      "font_class": "wenjian1",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "4967568",
+      "name": "项目建立",
+      "font_class": "xiangmujianli",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "13280511",
+      "name": "文件",
+      "font_class": "ziyuan1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13280512",
+      "name": "文件",
+      "font_class": "ziyuan2",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "13280516",
+      "name": "文件",
+      "font_class": "ziyuan3",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "13280533",
+      "name": "文件",
+      "font_class": "ziyuan4",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1277548",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "13280510",
+      "name": "文件",
+      "font_class": "ziyuan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "169948",
+      "name": "档案库",
+      "font_class": "danganku",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "1494833",
+      "name": "档案-实",
+      "font_class": "dangan-shi",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "5321694",
+      "name": "档案1",
+      "font_class": "dangan1",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "446582",
+      "name": "库存量",
+      "font_class": "kucunliang",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "704371",
+      "name": "出库管理",
+      "font_class": "chukuguanli",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "1727332",
+      "name": "12库存",
+      "font_class": "kucun",
+      "unicode": "e88f",
+      "unicode_decimal": 59535
+    },
+    {
+      "icon_id": "2458743",
+      "name": "档案合集",
+      "font_class": "danganheji",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "6211866",
+      "name": "4-5档案",
+      "font_class": "-dangan",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "7413995",
+      "name": "库存清单",
+      "font_class": "kucunqingdan",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "8353869",
+      "name": "村民档案",
+      "font_class": "cunmindangan",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "11409118",
+      "name": "仓库信息",
+      "font_class": "cangkuxinxi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "12889893",
+      "name": "档案资料-归档资料",
+      "font_class": "danganziliao-guidangziliao",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "11661938",
+      "name": "3D库房",
+      "font_class": "Dkufang",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "7090061",
+      "name": "双箭头 上",
+      "font_class": "shuangjiantoushang",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "7090063",
+      "name": "双箭头 下",
+      "font_class": "shuangjiantouxia",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "551217",
+      "name": "工作档案",
+      "font_class": "records",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "3199561",
+      "name": "工作移交",
+      "font_class": "drxx48",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "3702996",
+      "name": "仓库档案设置",
+      "font_class": "navicon-ckdasz",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "4604277",
+      "name": "系统管理",
+      "font_class": "xitongguanli",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "5392409",
+      "name": "审核",
+      "font_class": "shenhe",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "6298981",
+      "name": "档案检索",
+      "font_class": "icon-",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "6773128",
+      "name": "文件-鉴定文书",
+      "font_class": "wj-jdws",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "9241129",
+      "name": "档案",
+      "font_class": "iconzhengli_dangan",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "10416461",
+      "name": "档案管理",
+      "font_class": "danganguanli",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11661873",
+      "name": "档案分析统计",
+      "font_class": "danganfenxitongji",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    }
+  ]
+}
