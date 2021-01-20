@@ -15,7 +15,7 @@
     "element-ui": "^2.13.0",
     "file-saver": "^2.0.2",
     "font-awesome": "^4.7.0",
-    "gsap": "^3.0.3",
+    "gsap": "^3.6.0",
     "js-base64": "^2.5.1",
     "node-sass": "^4.13.1",
     "nprogress": "^0.2.0",
